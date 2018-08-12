@@ -1,0 +1,3 @@
+YouTube seems to keep its play controls on the screen indefinitely if running on an Android device with an AccessibilityService enabled.
+
+This is another AccessibilityService that restores the original behavior of timing out. It watches for the play controls to show up, and then clicks the 'hide controls' button after a timeout.
