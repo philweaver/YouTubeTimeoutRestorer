@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YouTube Timeout Restorer</string>
+    <string name="description">Closes YouTube controls that otherwise linger on screen.\n\nClicks on the YouTube \'hide controls\' button after 8 seconds.</string>
+</resources>
